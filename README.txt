@@ -1,4 +1,4 @@
-**Repositorio de Aplicaciones Móviles**
+*Repositorio de Aplicaciones Móviles*
 Este repositorio contiene tres aplicaciones móviles desarrolladas en Android Studio, cada una demostrando distintos aspectos de desarrollo para Android. Las aplicaciones están escritas en Kotlin e incluyen funcionalidades básicas como botones, sonidos multimedia y un CRUD utilizando una base de datos SQLite.
 
 *Aplicaciones Incluidas*
