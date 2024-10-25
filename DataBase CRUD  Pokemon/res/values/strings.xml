@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PokemonBD</string>
+    <string-array name="tipos_array">
+        <item>Agua</item>
+        <item>Fuego</item>
+        <item>Planta</item>
+        <item>Eléctrico</item>
+        <item>Roca</item>
+    </string-array>
+    <string-array name="pokeball_types">
+        <item>Poke Ball</item>
+        <item>Super Ball</item>
+        <item>Ultra Ball</item>
+        <item>Master Ball</item>
+        <item>Turno Ball</item>
+        <item>Peso Ball</item>
+        <item>Buceo Ball</item>
+        <item>Rapid Ball</item>
+        <item>Safari Ball</item>
+    </string-array>
+</resources>
