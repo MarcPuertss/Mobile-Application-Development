@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="opaque"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Color de fons -->
+    <item android:drawable="@color/black" />
+    <!-- Cuadrar l'imatge-->
+    <item
+
+        android:left="10dp"
+        android:right="10dp"
+        android:top="260dp"
+        android:bottom="260dp">
+        <!--source en cuestió -->
+        <bitmap
+            android:src="@drawable/mp1" />
+    </item>
+</layer-list>
