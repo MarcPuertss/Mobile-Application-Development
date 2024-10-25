@@ -11,7 +11,7 @@ Características:
 Interfaz sencilla con botones básicos.
 Ejemplo de lógica para el manejo de eventos de clic.
 
-2. Aplicación Memory Multimedia - "Juego de Memoria con Sonidos"
+2. Aplicación Memory Multimedia - "Juego de Memory con Sonidos"
 
 Una aplicación interactiva estilo juego de memoria que utiliza sonidos. Esta app es ideal para ver el manejo de archivos multimedia en Android y cómo se pueden integrar sonidos en una actividad de juego.
 
